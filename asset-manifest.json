@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/admin-panel/static/css/main.51aa57da.css",
+    "main.js": "/admin-panel/static/js/main.64f0a3de.js",
+    "static/js/787.0faeda46.chunk.js": "/admin-panel/static/js/787.0faeda46.chunk.js",
+    "index.html": "/admin-panel/index.html",
+    "static/media/search_icon.svg": "/admin-panel/static/media/search_icon.cc51b702c98798cd916ea5a3a8ca8b54.svg",
+    "main.51aa57da.css.map": "/admin-panel/static/css/main.51aa57da.css.map",
+    "main.64f0a3de.js.map": "/admin-panel/static/js/main.64f0a3de.js.map",
+    "787.0faeda46.chunk.js.map": "/admin-panel/static/js/787.0faeda46.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51aa57da.css",
+    "static/js/main.64f0a3de.js"
+  ]
+}
